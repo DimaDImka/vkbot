@@ -1,0 +1,34 @@
+[
+	{
+		"id": 170182571,
+		"balance": 11024496999,
+		"work": {
+			"timer": 0,
+			"name": "Дворник",
+			"id": 1,
+			"day": 3
+		},
+		"nick": "дима",
+		"link": "https://vk.com/xxxme7ke9",
+		"domain": "xxxme7ke9",
+		"bonus": 1677698802255,
+		"adm": true,
+		"moderator": false
+	},
+	{
+		"id": 252530480,
+		"balance": 0,
+		"work": {
+			"timer": 0,
+			"name": "Нет",
+			"id": 0,
+			"day": 0
+		},
+		"nick": "Игрок",
+		"link": "https://vk.com/a12221384774",
+		"domain": "a12221384774",
+		"bonus": 0,
+		"adm": true,
+		"moderator": true
+	}
+]
